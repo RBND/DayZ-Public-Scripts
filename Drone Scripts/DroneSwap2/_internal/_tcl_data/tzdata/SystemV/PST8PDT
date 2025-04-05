@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by ../tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Los_Angeles)]} {
+    LoadTimeZoneFile America/Los_Angeles
+}
+set TZData(:SystemV/PST8PDT) $TZData(:America/Los_Angeles)
+=======
+# created by ../tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Los_Angeles)]} {
+    LoadTimeZoneFile America/Los_Angeles
+}
+set TZData(:SystemV/PST8PDT) $TZData(:America/Los_Angeles)
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

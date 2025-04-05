@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Pacific/Tarawa) {
+    {-9223372036854775808 41524 0 LMT}
+    {-2177494324 43200 0 +12}
+}
+=======
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Pacific/Tarawa) {
+    {-9223372036854775808 41524 0 LMT}
+    {-2177494324 43200 0 +12}
+}
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

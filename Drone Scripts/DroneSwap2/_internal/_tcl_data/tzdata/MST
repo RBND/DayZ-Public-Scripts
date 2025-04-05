@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:MST) {
+    {-9223372036854775808 -25200 0 MST}
+}
+=======
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:MST) {
+    {-9223372036854775808 -25200 0 MST}
+}
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

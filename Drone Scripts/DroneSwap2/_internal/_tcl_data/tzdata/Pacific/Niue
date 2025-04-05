@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Pacific/Niue) {
+    {-9223372036854775808 -40780 0 LMT}
+    {-543069620 -40800 0 -1120}
+    {-173623200 -39600 0 -11}
+}
+=======
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Pacific/Niue) {
+    {-9223372036854775808 -40780 0 LMT}
+    {-543069620 -40800 0 -1120}
+    {-173623200 -39600 0 -11}
+}
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Nuuk)]} {
+    LoadTimeZoneFile America/Nuuk
+}
+set TZData(:America/Godthab) $TZData(:America/Nuuk)
+=======
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Nuuk)]} {
+    LoadTimeZoneFile America/Nuuk
+}
+set TZData(:America/Godthab) $TZData(:America/Nuuk)
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

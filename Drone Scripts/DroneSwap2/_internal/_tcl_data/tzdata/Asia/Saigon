@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(Asia/Ho_Chi_Minh)]} {
+    LoadTimeZoneFile Asia/Ho_Chi_Minh
+}
+set TZData(:Asia/Saigon) $TZData(:Asia/Ho_Chi_Minh)
+=======
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(Asia/Ho_Chi_Minh)]} {
+    LoadTimeZoneFile Asia/Ho_Chi_Minh
+}
+set TZData(:Asia/Saigon) $TZData(:Asia/Ho_Chi_Minh)
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

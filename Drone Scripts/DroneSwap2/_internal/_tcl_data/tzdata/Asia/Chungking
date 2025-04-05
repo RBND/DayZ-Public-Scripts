@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(Asia/Shanghai)]} {
+    LoadTimeZoneFile Asia/Shanghai
+}
+set TZData(:Asia/Chungking) $TZData(:Asia/Shanghai)
+=======
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(Asia/Shanghai)]} {
+    LoadTimeZoneFile Asia/Shanghai
+}
+set TZData(:Asia/Chungking) $TZData(:Asia/Shanghai)
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

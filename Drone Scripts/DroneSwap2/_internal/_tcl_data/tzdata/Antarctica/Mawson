@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Antarctica/Mawson) {
+    {-9223372036854775808 0 0 -00}
+    {-501206400 21600 0 +06}
+    {1255809600 18000 0 +05}
+}
+=======
+# created by tools/tclZIC.tcl - do not edit
+
+set TZData(:Antarctica/Mawson) {
+    {-9223372036854775808 0 0 -00}
+    {-501206400 21600 0 +06}
+    {1255809600 18000 0 +05}
+}
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a

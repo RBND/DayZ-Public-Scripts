@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Panama)]} {
+    LoadTimeZoneFile America/Panama
+}
+set TZData(:America/Cayman) $TZData(:America/Panama)
+=======
+# created by tools/tclZIC.tcl - do not edit
+if {![info exists TZData(America/Panama)]} {
+    LoadTimeZoneFile America/Panama
+}
+set TZData(:America/Cayman) $TZData(:America/Panama)
+>>>>>>> 40912a2cf55f1eefaa18841ceace9a0288e8636a
