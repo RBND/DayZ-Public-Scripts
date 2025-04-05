@@ -4,6 +4,7 @@ I will always try to convert any scripts into a standalone exe that you can laun
 <br>
 <br>
 <br>
+Drone Swap Download: https://github.com/RBND/DayZ-Public-Scripts/blob/main/Drone%20Scripts/DroneSwap2.zip
 <br>
 Resources:<br>
 [https://www.autohotkey.com/](https://www.autohotkey.com/download/ahk-v2.exe)<br>
