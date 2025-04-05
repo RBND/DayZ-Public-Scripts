@@ -169,7 +169,7 @@ class MouseAutomationApp:
                 f"created by RBND for friends.\n"
                 f"If you're not a friend\n"
                 f"go fuck yourself.\n"
-                f")
+                )
 
         # Setup keyboard listener
         self.keyboard_listener = keyboard.Listener(on_press=self.on_key_press)
